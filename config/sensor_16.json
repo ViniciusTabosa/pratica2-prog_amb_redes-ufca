@@ -1,0 +1,8 @@
+{
+    "id": 16,
+    "tipo": "temperatura_caldeira",
+    "base_temp": 25.0,
+    "broker_ip": "127.0.0.1",
+    "broker_porta": 1883,
+    "intervalo_envio_s": 0.1
+}
